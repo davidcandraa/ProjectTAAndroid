@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectTA</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="klik_disini_apabila_sudah_memiliki_akun">Klik disini apabila sudah memiliki akun</string>
+    <string name="klik_disini_untuk_mendaftarkan_akun">Klik disini untuk mendaftarkan akun</string>
+</resources>
